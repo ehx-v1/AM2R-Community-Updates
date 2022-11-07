@@ -1,3 +1,7 @@
+# This repo
+
+As of right now, this is purely a preservation copy, in case the source repo is hit by a copyright strike. It is fairly likely to also contain some mods in the future, not making any promises though. If that's the case, however, then they will be released on separate branches, meaning that the main branch will be kept up to date with the main repository.
+
 # AM2R-Community-Updates
 
 **Please do not request help until you have read this entire document. The vast majority of your questions should be answered within it, and we will be able to easily tell if you have not followed the installation instructions thoroughly.**
